@@ -4,7 +4,7 @@
 // export { ChatHandler, chat_names}
 
 
-const chat_names = ["Rajiv Kumar", "Ankit Sharma", "Aditya Chauhan", "Pawan Soni", "Shivam Gupta", "Aman Agrawal", "Devesh Chaudhary"];
+const chat_names = ["Rajiv Kumar", "Ankit Sharma", "Aditya Chauhan", "Pawan Soni", "Shivam Gupta1", "Aman Agrawal", "Devesh Chaudhary"];
 const chat_names_length = chat_names.length;
 const chat_msg = ["Why didn't he come and talk to me himse...",
     "Perfect, I am really glad to hear that!...",
